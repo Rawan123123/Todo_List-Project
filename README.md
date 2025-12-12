@@ -1,8 +1,7 @@
-<img width="733" height="866" alt="image" src="https://github.com/user-attachments/assets/196ba781-5d61-431a-8564-6026cd6fba7f" /># 📝 Todo List API - ASP.NET Core
+# 📝 Todo List API - ASP.NET Core
 
 A professional RESTful API for managing personal todo lists with complete authentication system, advanced filtering, and comprehensive task management features.
 ---
-
 ## 📖 Project Overview
 
 This is my **first full-stack API project** built with ASP.NET Core, demonstrating modern backend development practices including secure authentication, clean architecture, and RESTful API design principles.
